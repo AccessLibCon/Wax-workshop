@@ -9,9 +9,9 @@ In this session we'll be using the WAX tutorial at https://minicomp.github.io/wi
 To set yourself up for the session you will need to have 
 
 1. [a Github account](https://github.com/join)
-2. Some knowledge of using an Bash Command Line (new this? Try starting with https://programminghistorian.org/en/lessons/intro-to-bash
-3. Some knowledge of markdown https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
-4. https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+2. Some knowledge of using an Bash Command Line (new this? Try starting with https://programminghistorian.org/en/lessons/intro-to-bash tutorial)
+3. Some [knowledge of markdown is helpful](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+4. New to building static sites and Jekyll, try [this tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
 
 The session will be facilitated by Sarah Severson and Sam Popowich and there will be [prepared images](https://drive.google.com/drive/folders/182mVYK05ILDJzO36AcVgotncvPk0jLYS?usp=sharing) and [metadata](https://drive.google.com/drive/folders/1EMNfoiMgMdei7I0LSW5yvGmIFgq2Yigp?usp=sharing) from the [University of Alberta Libraries Historical Postcard Collection](https://archive.org/details/albertapostcards)
