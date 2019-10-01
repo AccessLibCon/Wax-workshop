@@ -1,6 +1,8 @@
 # Wax-workshop
-Some resources for the LEARN TOGETHER WAX WORKSHOP at #AccessYEG on October 2, 2019
+Some resources for the [LEARN TOGETHER WAX WORKSHOP](https://accessconference.ca/workshops-and-hackfest/) at #AccessYEG on October 2, 2019
 
+Time: 10:30 – 12:30 (free to join hackfest after)
+Location: University of Alberta Libraries [Digital Scholarship Centre](https://dsc.library.ualberta.ca/), located on the 2nd floor of the Cameron Library
 
 Interested in hands-on experience building digital exhibitions without writing code? The Access hackfest Wax workshop will provide space and time to dig into preparing data and setting up digital exhibitions from data to the final product using a lightweight, low barrier web-based tool. This workshop will be an informal “learn together” session so even if you are unfamiliar with using an interactive shell or Git/Github, there will be help with those parts. The hope is where we can try things out and explore while learning how Wax works and the ins and outs of creating digital exhibitions.
 
