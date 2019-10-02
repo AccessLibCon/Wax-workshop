@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC030003</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>A DOG-ON-NICE-TOWN CALGARY, ALTA.</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Alberta</province>
+            <city>Calgary</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: sepia ; 8.7 x 13.7 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">B&amp;w photograph manipulated to look as if an oversized dog is sitting on top of a building</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Collages</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Dogs</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Streets</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mrs David Steeve</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Randy</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Academy St Hillsbor[o] AB.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">We are having nice weather here love to all Randy</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">CALGARY ALTA JAN 6 4-PM 1910</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">8th Avenue</note>
+   </mods:mods>

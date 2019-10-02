@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC032724</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>They gave us a rousing welcome at Portage La Prairie, Man.</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Manitoba</province>
+            <city>Portage</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard : col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Illustration depicting a man and a woman with oversized heads standing on a car while a crowd greets them by throwing their hats in the air</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Crowds</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Automobiles</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Miss Jessie Wilson</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Mrs. Wishart</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">c/o Y. W. C. A. Branding House Winnipeg Man</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Read your card today, and will be very pleased to see you and your friend next sat. if we are not at station to meet you, go to Albion Hotel and we will meet you there</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">PORTAGE LA PRAIRIE 10 JUN 12 13 MAN</note>
+   </mods:mods>

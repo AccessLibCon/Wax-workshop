@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC034926</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>"GOOD SHOOTING HERE ""THE PAS"", MAN."</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="corporate">
+         <namePart>Canadian Post Card Co.</namePart>
+         <role>
+            <roleTerm type="text">Publisher</roleTerm>
+         </role>
+      </name>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Manitoba</province>
+            <city>Nipawin</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: sepia ; 8.7 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">B&amp;w photograph appearing to show a sky full of Canada Geese; a hunter aims at them from behind a blind</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Collages</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Blinds (Shelters)</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Ducks</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Duck shooting</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">22</note>
+   </mods:mods>

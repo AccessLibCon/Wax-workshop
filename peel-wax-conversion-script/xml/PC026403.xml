@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC026403</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>I'm Saving a Place for You in Clearwater, Man. Do Hurry Up</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Manitoba</province>
+            <city>Clearwater</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">"Illustrated flag with the words ""Clearwater, Man."" written on the top half of the card; a b&amp;w photograph of a couple in front of a house is set at the bottom"</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Pennants</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Couples</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Courtship</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Miss Abbie Hanis</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Flossie</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Wood Bay, O[A], Manitoba</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Dear Abbie - Sunday the 15th is our Anniversary, so will look for you and whoever else can come, to come down. Would write you a letter but thought I could tell you the news better. Edna &amp; I were in Pilot Mound sat. afternoon, didn't see anyone we knew except C. Stewart. Let us know if you can come &amp; some of you be sure &amp; come all if you can Your friend - Flossie</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">CLEARWATER NO 10 14 MAN ; WOOD BAY NO 10 14 MAN</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_back">Written in m.s.: Nov. 9, 1914</note>
+   </mods:mods>

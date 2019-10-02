@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC023527</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>PLOWING, ALBERTA, CANADA.</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="personal">
+         <namePart>Canadian Department of Immigation</namePart>
+         <role>
+            <roleTerm type="text">Issuer</roleTerm>
+         </role>
+      </name>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Alberta</province>
+            <city/>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: col. ; 8.5 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Coloured photograph of five teams of horses working to plough a field in Alberta</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Farming</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land development</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Emigration &amp; immigration</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Agriculture</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land settlement--Canada</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_back">160 ACRE FARMS IN WESTERN CANADA FREE GOOD SCHOOLS. SPLENDID CLIMATE. RICH SOIL. SPLENDID PASTURAGE LAND FOR CATTLE. EXCELLENT DAIRYING. Particulars may be obtained from any CANADIAN GOVERNMENT AGENT OR FROM MR. W.D. SCOTT, Superintendent of Immigration, OTTAWA. MR. W.T.R. PRESTON, Commissioner of Emigration, 11-12 Charing Cross, LONDON, W.C. ENGLAND</note>
+   </mods:mods>

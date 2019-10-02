@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC031402</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>WHERE CROPS NEVER FAIL</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="personal">
+         <namePart>Central Alberta Development League</namePart>
+         <role>
+            <roleTerm type="text">Issuer</roleTerm>
+         </role>
+      </name>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: b&amp;w ; 8.5 x 13.5 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Three b&amp;w photographs arranged horizontally depict large farm homes and a field filled with large haystacks</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Homesteading</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land development</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Agriculture</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Farming</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land settlement--Canada</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">The Secretary of the Central Alberta Development League</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">The Secretary of the Central Alberta Development League</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Edmonton, Canada</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">I want to know about the resources of CENTRAL ALBERTA Please send me illustrated descriptive pamphlet Name ___ Address ___ Occupation ___</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">NO IRRIGATION NO ""DRY FARMING"" ; OVER ; Get information about Western Canada's Richest Mixed Farming District</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_other">,</note>
+   </mods:mods>

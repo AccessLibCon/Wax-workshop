@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC032374</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>They all turned out to meet me at Francis, Sask.</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Saskatchewan</province>
+            <city>Francis</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard : col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Illustration depicting a man with an oversized head disembarking from a train; a crowd throw their hats in the air to greet him</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Railroad trains</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Crowds</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mrs. H. A Worden</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">[S].B.W.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Indian Head, Sask.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Arrived here safely this morning. Great place this I must say. Are going out w Fred Dukes this afternoon. Yours Sincirly[sic], [S].B.W.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">FRANCIS OC 30. 12 SASK.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">740</note>
+   </mods:mods>

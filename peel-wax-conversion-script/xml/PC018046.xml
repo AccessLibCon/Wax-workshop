@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC018046</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>MOOSE JAW Why don't you come and live in a real good live town like this?</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Saskatchewan</province>
+            <city>Moose</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard : col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">"Illustration of a young boy in a cowboy outfit leaning against a post; an illustrated flag with the words ""Moose Jaw"" flies above him"</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Children</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cowboys</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Pennants</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land settlement--Canada</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mr. A. Harbottle</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Wes Oliver</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Findlay Man.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Well Art, How's tricks [G]ev is up here but I cant make him stay this time. Will write letter tommorow. Hope you &amp; your lady are both well. From Wes Oliver</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">MOOSE JAW 4:30 OM OCT 29 1913</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">Illegible writing on front in m.s.</note>
+   </mods:mods>

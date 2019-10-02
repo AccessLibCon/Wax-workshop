@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC028349</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>SNAP SHOT TAKEN IN Ninette</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Manitoba</province>
+            <city>Ninette</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard : col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">b&amp;w photograph of two girls sitting with guns inlaid on a peeling parchment illustration on a blue background</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Hunting</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Women</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mrs. M [L] Clement</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">M. [E] Holland</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">16th Street Brandon Man.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Am having a lovely time down here. The Weather is grand. Have been in the water every day. [But] don't swim like a fish like half a drowned mermaid. M. [E]. Holland</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">NINETTE JUL 22 13 MAN</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_back">Written in ms.: 4</note>
+   </mods:mods>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC028974</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>I'd rather be a Hitching Post in Gull Lake Than Lord Mayor of London</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Saskatchewan</province>
+            <city>Gull</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard : col. ; 9 x 13.5 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Illustration of blue flowers</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Flowers</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mr. Roy McCurdy</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">John</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Milton R. [Nol.] N. Dak.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Hallo Roy! - How is N.D. anyway? It is pretty tame around here just now. When are you coming out here, you better get a move on. It is quite a big change here since last year. Hope to hear from you soon I am your friend John</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">GULL LAKE PM NO 15 10 SASK</note>
+   </mods:mods>

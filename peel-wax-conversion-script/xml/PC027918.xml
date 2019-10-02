@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC027918</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>Cleaning Up CANADIAN HOMESTEAD LIFE</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="corporate">
+         <namePart>Valentine &amp; Sons</namePart>
+         <role>
+            <roleTerm type="text">Publisher</roleTerm>
+         </role>
+      </name>
+      <originInfo xmlns="http://www.loc.gov/mods/v3">
+         <issuance>monographic</issuance>
+         <publisher>Valentine &amp; Sons</publisher>
+         <dateIssued qualifier="approximate">1910s</dateIssued>
+      </originInfo>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: col. ; 8.5 x 13.7 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Coloured photograph of a farmer ploughing his field with the use of a horsedrawn plough</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Agriculture</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Plowing</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Homesteading</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Farming</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land settlement--Canada</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mary Scott</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">John</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">From John to Mary.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">Written on photograph: 103,508 J.V.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_other">,</note>
+   </mods:mods>

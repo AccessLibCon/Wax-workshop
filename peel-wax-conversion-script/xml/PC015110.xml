@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC015110</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>THERE'S SOMETHING TO CROW ABOUT AT EDMONTON.</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="corporate">
+         <namePart>E.I.</namePart>
+         <role>
+            <roleTerm type="text">Publisher</roleTerm>
+         </role>
+      </name>
+      <originInfo xmlns="http://www.loc.gov/mods/v3">
+         <issuance>monographic</issuance>
+         <publisher>E.I.</publisher>
+         <dateIssued qualifier="approximate">1910</dateIssued>
+      </originInfo>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Alberta</province>
+            <city>Edmonton</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: b&amp;w ; 8.5 x 13.7 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">B&amp;w photograph appearing to depict a building-sized chicken standing next to the Arlington apartments in Edmonton</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Collages</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Chickens</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Livestock</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Master A Lyon</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Mother</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Stry p O Alta</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">I got here this morning I have not seen papa mother</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">EDMONTON MR 10 ALTA</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">ARLINGTON APARTMENTS EDMONTON</note>
+   </mods:mods>

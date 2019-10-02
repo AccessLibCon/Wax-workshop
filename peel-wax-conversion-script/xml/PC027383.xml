@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC027383</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>Planting the Seed CANADIAN HOMESTEAD LIFE</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="corporate">
+         <namePart>Valentine &amp; Sons</namePart>
+         <role>
+            <roleTerm type="text">Publisher</roleTerm>
+         </role>
+      </name>
+      <originInfo xmlns="http://www.loc.gov/mods/v3">
+         <issuance>monographic</issuance>
+         <publisher>Valentine &amp; Sons</publisher>
+         <dateIssued qualifier="approximate">1910s</dateIssued>
+      </originInfo>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: col. ; 8.5 x 13.7 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Coloured photograph of two farmers with metal pails full of potatoes</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Agriculture</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Farming</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Homesteading</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Land settlement--Canada</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Miss Izalia Abbot</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Margaret</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">R7H#3 Lincoln Nebraska U.S.A.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Coronation all = Canada. Aug. 1. 1913. Dear niece, I rec'd your card. was very pleased to hear from you, [so] we thought you had forgotten us. I wonder if Esther remembers saying she would not be long in answering my letter we wonder what she calls long. Was glad to know your Papa is keeping well. We are all well here. Lizzie was out 4 days last week. John is down on his home stead. Are you going to go to school in L[uirhe] again? I suppose you will have your threshing done now. Our grain is no good. Well write soon. With love from all to all. Your Aunt, Margaret.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">NATION</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_on_front">Written on photograph: 103, 510 J.V.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_other">,</note>
+   </mods:mods>

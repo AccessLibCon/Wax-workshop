@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC016988</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>"Brandon has some ""Peaches"" but you have them all skinned"</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Manitoba</province>
+            <city>Brandon</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">"Photograph of a woman holding a stick; a flag is illustrated abover her bearing the word ""Brandon"""</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Women</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Pennants</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Courtship</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Mr. George N. [Joslew]</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Ella</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">2038 Park Ave. Annex : Montreal, Que.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Brandon, Man. Sept. 19-12, Thurs. Dear George, I hope you like this card. It's the best I can get. (etc.) to show I miss you + still remember you. We have to wait until 2:30 a.m. for a train to go to Winnipeg  [fair] at 8 a.m. Lovely [hrs], I feel fine. Only lonesome, [Siux] me [dusnl] - yet. It is O.K. Just a nice stay + [long] enough. I guess you are sorry. L.A.L. O.K. Ella</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">WINNIPEG &amp; MOOSE JAW 62 SP 20 12</note>
+   </mods:mods>

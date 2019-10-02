@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC016340</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>Your Friends in WINNIPEG Would Like a Glimpse of You</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Manitoba</province>
+            <city>Winnipeg</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard : col. ; 9 x 14 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">Illustrated flag accompanied by a b&amp;w photograph of two women beside a tree overhanging a body of water</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Cities &amp; towns</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Pennants</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Tourism</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Miss Annie Lockhead</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Ross K.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">Enterprise Ontario Can.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Dear Annie; Well Annie thought I would drop you a card to let you know I am still alive and will be able to read a large letter letter from you as soon as you can get it here, Hope everything is lovely down there. how is E[ff]ie (.Ha Ha) Bye answer soon Ross K.</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">GRENFELL AL 24 14 SASK</note>
+   </mods:mods>

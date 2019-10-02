@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xmlns:peel="http://peel.library.ualberta.ca/mods-extensions">
+      <identifier xmlns="http://www.loc.gov/mods/v3" type="local">PC031294</identifier>
+      <titleInfo xmlns="http://www.loc.gov/mods/v3" lang="english">
+         <title>THERE ARE PLENTY OF BIG FISH AT JASPER PARK, CANADA</title>
+      </titleInfo>
+      <typeOfResource xmlns="http://www.loc.gov/mods/v3">still image</typeOfResource>
+      <genre xmlns="http://www.loc.gov/mods/v3" authority="gmgpc">postcards</genre>
+      <name xmlns="http://www.loc.gov/mods/v3" type="corporate">
+         <namePart>Canadian Post Card Co.</namePart>
+         <role>
+            <roleTerm type="text">Publisher</roleTerm>
+         </role>
+      </name>
+      <language xmlns="http://www.loc.gov/mods/v3">
+         <languageTerm type="text">English</languageTerm>
+      </language>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <hierarchicalGeographic>
+            <country>Canada</country>
+            <province>Alberta</province>
+            <city>Jasper</city>
+         </hierarchicalGeographic>
+      </subject>
+      <physicalDescription xmlns="http://www.loc.gov/mods/v3">
+         <extent>1 postcard: sepai ; 8.7 x 13.7 cm</extent>
+      </physicalDescription>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_description">B&amp;w photograph appearing to show four fishermen trying to catch four oversized fish from the shore</note>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Collages</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Fish</topic>
+      </subject>
+      <subject xmlns="http://www.loc.gov/mods/v3">
+         <topic>Fishing</topic>
+      </subject>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_to">Miss E Harrison</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_from">Johnny</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_address">53 [Surp] Rd., Old Town, East bourne Sr., England</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_message">Dear Eileen This is my favourite sport. Johnny</note>
+      <note xmlns="http://www.loc.gov/mods/v3" type="public_postmark_date">JASPER PM 3 XI 49 ALBERTA</note>
+   </mods:mods>
