@@ -18,3 +18,5 @@ To set yourself up for the session you will need to have
 
 
 The session will be facilitated by Sarah Severson and Sam Popowich and there will be [prepared images](https://drive.google.com/drive/folders/182mVYK05ILDJzO36AcVgotncvPk0jLYS?usp=sharing) and [metadata](https://drive.google.com/drive/folders/1EMNfoiMgMdei7I0LSW5yvGmIFgq2Yigp?usp=sharing) from the [University of Alberta Libraries Historical Postcard Collection](https://archive.org/details/albertapostcards)
+
+Peter Binkley's Access presentation on ["IIIF You Can Dream - and not make dreams your master: IIIF in the Real World"](https://www.youtube.com/watch?v=V1wyZ8kG4yc)
